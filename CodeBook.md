@@ -1,4 +1,4 @@
-## Code book for Coursera Getting and Cleaning Data course project
+**Code book for Coursera Getting and Cleaning Data course project**
 ======================================================
 
 The result data set of the discussed script is exported by the script into the file `avg_tidy_data.txt` (found in this repository or on the relevant folder which supplies the original data to the discussed script, after running the script of course).
@@ -39,7 +39,7 @@ Each row contains, for a given subject and activity, 79 averaged signal measurem
 All measurements are floating-point values, normalised and bounded within [-1,1].
 All of the measurements were taken from the original data sets provided and chosen to the final data set, as those represented mean or standard diviation calculation measurement.
 
-### About the script code variables:
+## About the script code variables:
 * `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` contain the data from the downloaded files.
 * `data`, `data_act` and `subjects` merge the previous datasets to further analysis.
 * `features` contains the correct names for the `data` dataset, which are applied to the column names stored in
