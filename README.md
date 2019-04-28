@@ -1,6 +1,3 @@
-# Coursera-Getting-and-Cleaning-Data-Course-Project
-Coursera-Getting-and-Cleaning-Data-Course-Project
-
 **"Getting and Cleaning Data"** Course Project
 ========================================
 
